@@ -1,0 +1,18 @@
+body {
+	height: 100vh;
+	background: #1c1f30;
+	display: grid;
+	place-content: center;
+}
+
+button {
+	font-size: 24px;
+    background-color: rgb(219, 227, 230);
+    border: none;
+    border-radius: 10px;
+}
+
+.button1:hover{
+    background-color:  rgb(255, 255, 255);
+
+}
